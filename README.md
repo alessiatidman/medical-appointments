@@ -1,4 +1,4 @@
-# Introduction to Data Analysis
+# No-Show Medical Appointments
 
 Here I analysed over 100,000 medical appointments in Brazil to see if particular variables affect whether or not a patient turns up to their appointment.
 I looked at the following within my analysis:
